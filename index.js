@@ -101,10 +101,7 @@ app.post("/run", async (req, res) => {
     if (EIIN) {
       await scrapeSchoolFull(EIIN);
     }
-
-    const data = await schoolEntry.save();
-    res.status(200).json("school inserted successfully");
-    console.log(data?.name);
+    res.status(200).json("school scraped successfully");
   } catch (err) {
     console.log(err);
   }
