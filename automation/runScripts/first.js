@@ -2,32 +2,32 @@ const scrapeSchoolFull = require("../sscResultSchollWise");
 
 const schoolLIst = [
   {
-    id: 36,
-    EIIN: "103208",
-    schoolName: "SHALGAON KALISHIMA SCHOOL AND COLLEGE",
+    id: 156,
+    EIIN: "103395",
+    schoolName: "BHOLACHANG HIGH SCHOOL, BHOLACHANG",
     zilla: "BRAHMANBARIA",
-    upazila: "BRAHMANBARIA SADAR",
+    upazila: "NABINAGAR",
   },
   {
-    id: 37,
-    EIIN: "103209",
-    schoolName: "ISLAMPUR ALHAJ KAZI RAFIQUL ISLAM HIGH SCHOOL AND COLLEGE",
+    id: 157,
+    EIIN: "103396",
+    schoolName: "SHYAMGRAM MOHINI KISHORE SCHOOL AND COLLEGE",
     zilla: "BRAHMANBARIA",
-    upazila: "BIJOYNAGAR",
+    upazila: "NABINAGAR",
   },
   {
-    id: 38,
-    EIIN: "103210",
-    schoolName: "ANNADA GOVT. HIGH SCHOOL, BRAHMANBARIA",
+    id: 158,
+    EIIN: "103397",
+    schoolName: "BIDYAKUT AMAR BOHU MUKHI HIGH SCHOOL, BIDYAKUT",
     zilla: "BRAHMANBARIA",
-    upazila: "BRAHMANBARIA SADAR",
+    upazila: "NABINAGAR",
   },
   {
-    id: 39,
-    EIIN: "103211",
-    schoolName: "BRAHMANBARIA HIGH SCHOOL",
+    id: 159,
+    EIIN: "103398",
+    schoolName: "SATMORA HIGH SCHOOL",
     zilla: "BRAHMANBARIA",
-    upazila: "BRAHMANBARIA SADAR",
+    upazila: "NABINAGAR",
   },
 ];
 

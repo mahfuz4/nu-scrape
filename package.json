@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "DEBUG=scraper node indexs.js",
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "bin": {
     "resultTool": "./bin/index.js"

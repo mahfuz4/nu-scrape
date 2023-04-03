@@ -2,32 +2,25 @@ const scrapeSchoolFull = require("../sscResultSchollWise");
 
 const schoolList = [
   {
-    id: 40,
-    EIIN: "103212",
-    schoolName: "BRAHMANBARIA IDEAL HIGH ACADEMY",
+    id: 160,
+    EIIN: "103399",
+    schoolName: "BITGHAR RADHA NATH HIGH SCHOOL, BITGHAR",
     zilla: "BRAHMANBARIA",
-    upazila: "BRAHMANBARIA SADAR",
+    upazila: "NABINAGAR",
   },
   {
-    id: 41,
-    EIIN: "103213",
-    schoolName: "GOVERNMENT HAZI ABDUL JALIL HIGH SCHOOL",
+    id: 161,
+    EIIN: "103400",
+    schoolName: "SALIMGONJ A. R. M. HIGH SCHOOL",
     zilla: "BRAHMANBARIA",
-    upazila: "ASHUGANJ",
+    upazila: "NABINAGAR",
   },
   {
-    id: 42,
-    EIIN: "103214",
-    schoolName: "ROWSHAN ARA JALIL GIRLS' HIGH SCHOOL, ASHUGONJ",
+    id: 162,
+    EIIN: "103401",
+    schoolName: "BARAIL HIGH SCHOOL",
     zilla: "BRAHMANBARIA",
-    upazila: "ASHUGANJ",
-  },
-  {
-    id: 43,
-    EIIN: "103215",
-    schoolName: "RAMKANAI HIGH SCHOOL, BRAHMANBARIA",
-    zilla: "BRAHMANBARIA",
-    upazila: "BRAHMANBARIA SADAR",
+    upazila: "NABINAGAR",
   },
 ];
 
