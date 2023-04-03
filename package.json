@@ -2,14 +2,10 @@
   "name": "scraping-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "bin/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "DEBUG=scraper node indexs.js",
     "start": "node index.js"
-  },
-  "bin": {
-    "resultTool": "./bin/index.js"
   },
   "keywords": [],
   "author": "",
